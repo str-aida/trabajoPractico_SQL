@@ -1,0 +1,229 @@
+Updatecheck<|||>3<|||>1
+DoUsageStatistics<|||>3<|||>1
+UpdatecheckLastrun<|||>1<|||>2025-05-15 13:03:52
+LastUsageStatisticCall<|||>1<|||>2025-04-28 16:38:29
+ColWidths_connform.ListSessions<|||>1<|||>163,50,50,50,50,50,10
+ColsVisible_connform.ListSessions<|||>1<|||>0,1,4,6
+ColPositions_connform.ListSessions<|||>1<|||>0,1,2,3,4,5,6
+ColSort_connform.ListSessions<|||>1<|||>0,1
+MainWinOnMonitor<|||>3<|||>0
+MainWinWidth<|||>3<|||>880
+MainWinHeight<|||>3<|||>465
+ColWidths_MainForm.ListDatabases<|||>1<|||>150,80,50,50,50,50,50,50,50,50,120
+ColsVisible_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColPositions_MainForm.ListDatabases<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10
+ColSort_MainForm.ListDatabases<|||>1<|||>0,0
+ColWidths_MainForm.ListVariables<|||>1<|||>160,200,316
+ColsVisible_MainForm.ListVariables<|||>1<|||>0,1,2
+ColPositions_MainForm.ListVariables<|||>1<|||>0,1,2
+ColSort_MainForm.ListVariables<|||>1<|||>0,0
+ColWidths_MainForm.ListStatus<|||>1<|||>160,316,100,100
+ColsVisible_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColPositions_MainForm.ListStatus<|||>1<|||>0,1,2,3
+ColSort_MainForm.ListStatus<|||>1<|||>0,0
+ColWidths_MainForm.ListProcesses<|||>1<|||>70,80,80,80,80,50,50,191
+ColsVisible_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColPositions_MainForm.ListProcesses<|||>1<|||>0,1,2,3,4,5,6,7
+ColSort_MainForm.ListProcesses<|||>1<|||>0,1
+ColWidths_MainForm.ListCommandStats<|||>1<|||>120,100,100,100,256
+ColsVisible_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColPositions_MainForm.ListCommandStats<|||>1<|||>0,1,2,3,4
+ColSort_MainForm.ListCommandStats<|||>1<|||>1,1
+ColWidths_MainForm.ListTables<|||>1<|||>120,70,70,120,120,70,100,50,70,70,70,70,70,90,120,70,70,70,50
+ColsVisible_MainForm.ListTables<|||>1<|||>0,1,3,4,5,6,18
+ColPositions_MainForm.ListTables<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
+ColSort_MainForm.ListTables<|||>1<|||>0,0
+LastSessions<|||>1<|||>DB
+LastActiveSession<|||>1<|||>DB
+CreateDbCollation<|||>1<|||>utf8mb4_general_ci
+ColWidths_frmTableEditor.listColumns<|||>1<|||>55,100,152,90,60,65,50,116,130,137,100,100,50,50
+ColsVisible_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11,12,13
+ColPositions_frmTableEditor.listColumns<|||>1<|||>0,1,2,3,4,5,6,7,8,9,10,11,12,13
+ColSort_frmTableEditor.listColumns<|||>1<|||>-1,0
+ColWidths_frmTableEditor.treeIndexes<|||>1<|||>527,100,80,120,80
+ColsVisible_frmTableEditor.treeIndexes<|||>1<|||>0,1,2,3,4
+ColPositions_frmTableEditor.treeIndexes<|||>1<|||>0,1,2,3,4
+ColSort_frmTableEditor.treeIndexes<|||>1<|||>-1,0
+ColWidths_frmTableEditor.listForeignKeys<|||>1<|||>196,80,100,80,80,377
+ColsVisible_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColPositions_frmTableEditor.listForeignKeys<|||>1<|||>0,1,2,3,4,5
+ColSort_frmTableEditor.listForeignKeys<|||>1<|||>-1,0
+ColWidths_frmTableEditor.listCheckConstraints<|||>1<|||>200,713
+ColsVisible_frmTableEditor.listCheckConstraints<|||>1<|||>0,1
+ColPositions_frmTableEditor.listCheckConstraints<|||>1<|||>0,1
+ColSort_frmTableEditor.listCheckConstraints<|||>1<|||>-1,0
+querymemoheight<|||>3<|||>550
+dbtreewidth<|||>3<|||>419
+MainWinMaximized<|||>3<|||>1
+StopOnErrorsInBatchMode<|||>3<|||>0
+SessionManager_WindowLeft<|||>3<|||>412
+SessionManager_WindowTop<|||>3<|||>196
+FilterPanel<|||>3<|||>0
+FileDialogEncoding_MainForm<|||>3<|||>0
+ColWidths_UserManagerForm.listUsers<|||>1<|||>97,80
+ColsVisible_UserManagerForm.listUsers<|||>1<|||>0,1
+ColPositions_UserManagerForm.listUsers<|||>1<|||>0,1
+ColSort_UserManagerForm.listUsers<|||>1<|||>0,0
+DateTimeEditor_CursorPos_Type4<|||>3<|||>5
+SQLFile0<|||>1<|||>C:\Users\aida_\OneDrive\Documentos\Consulta1.sql
+SQLFile1<|||>1<|||>C:\Users\aida_\AppData\Roaming\HeidiSQL\Backups\query-tab-2025-04-28_16-40-02-132.sql
+SQLFile2<|||>1<|||>C:\Users\aida_\OneDrive\Documentos\prueba.sql
+SQLFile3<|||>1<|||>C:\Users\aida_\OneDrive\Documentos\Consulta.sql
+Servers\DB\SessionCreated<|||>1<|||>2025-05-12 13:18:42
+Servers\DB\Host<|||>1<|||>127.0.0.1
+Servers\DB\WindowsAuth<|||>3<|||>0
+Servers\DB\CleartextPluginEnabled<|||>3<|||>0
+Servers\DB\User<|||>1<|||>root
+Servers\DB\Password<|||>1<|||>5
+Servers\DB\LoginPrompt<|||>3<|||>0
+Servers\DB\Port<|||>1<|||>3306
+Servers\DB\NetType<|||>3<|||>0
+Servers\DB\Compressed<|||>3<|||>0
+Servers\DB\LocalTimeZone<|||>3<|||>0
+Servers\DB\QueryTimeout<|||>3<|||>30
+Servers\DB\KeepAlive<|||>3<|||>20
+Servers\DB\FullTableStatus<|||>3<|||>1
+Servers\DB\Databases<|||>1<|||>
+Servers\DB\Library<|||>1<|||>libmysql.dll
+Servers\DB\Comment<|||>1<|||>
+Servers\DB\StartupScriptFilename<|||>1<|||>
+Servers\DB\TreeBackground<|||>3<|||>536870911
+Servers\DB\SSHtunnelActive<|||>3<|||>0
+Servers\DB\SshExecutable<|||>1<|||>
+Servers\DB\SSHtunnelHost<|||>1<|||>
+Servers\DB\SSHtunnelHostPort<|||>3<|||>22
+Servers\DB\SSHtunnelUser<|||>1<|||>
+Servers\DB\SSHtunnelPassword<|||>1<|||>2
+Servers\DB\SSHtunnelTimeout<|||>3<|||>4
+Servers\DB\SSHtunnelPrivateKey<|||>1<|||>
+Servers\DB\SSHtunnelPort<|||>3<|||>3307
+Servers\DB\SSL_Active<|||>3<|||>0
+Servers\DB\SSL_Key<|||>1<|||>
+Servers\DB\SSL_Cert<|||>1<|||>
+Servers\DB\SSL_CA<|||>1<|||>
+Servers\DB\SSL_Cipher<|||>1<|||>
+Servers\DB\SSL_Verification<|||>3<|||>2
+Servers\DB\IgnoreDatabasePattern<|||>1<|||>
+Servers\DB\LogFileDdl<|||>3<|||>0
+Servers\DB\LogFileDml<|||>3<|||>0
+Servers\DB\LogFilePath<|||>1<|||>C:\Users\aida_\AppData\Roaming\HeidiSQL\Logs\%session\%db\%y%m%d.sql
+Servers\DB\ServerVersionFull<|||>1<|||>10.4.32-MariaDB - mariadb.org binary distribution
+Servers\DB\ConnectCount<|||>3<|||>8
+Servers\DB\ServerVersion<|||>3<|||>100432
+Servers\DB\LastConnect<|||>1<|||>2025-05-18 11:18:20
+Servers\DB\lastUsedDB<|||>1<|||>bd_trabajopractico
+Servers\DB\bd_trabajopractico|clientes\Sort<|||>1<|||>1_cod_cliente|
+Servers\DB\bd_trabajopractico|datos_contratos\Sort<|||>1<|||>0_cuota|0_ventas|0_fecha_contrato|0_cod_empleado|
+Servers\DB\bd_trabajopractico|precios\Sort<|||>1<|||>0_cod_lista|
+Servers\DB\QueryHistory\1<|||>1<|||>2025-05-12 14:17:05|bd_trabajopractico|16|CREATE TABLE documentos<{{{><}}}>(cod_documeto INT PRIMARY KEY,<{{{><}}}>descripcion VARCHAR(40) NOT NULL);
+Servers\DB\QueryHistory\3<|||>1<|||>2025-05-12 15:50:32|bd_trabajopractico|0|CREATE TABLE oficinas<{{{><}}}>(cod_oficina INT PRIMARY KEY,<{{{><}}}>codigo_director INT,<{{{><}}}>descripcion VARCHAR(100),<{{{><}}}>FOREIGN KEY (codigo_director) REFERENCES empleados (codigo_director));
+Servers\DB\QueryHistory\4<|||>1<|||>2025-05-12 15:50:54|bd_trabajopractico|0|CREATE TABLE oficinas<{{{><}}}>(cod_oficina INT PRIMARY KEY,<{{{><}}}>codigo_director INT,<{{{><}}}>descripcion VARCHAR(100));
+Servers\DB\QueryHistory\2<|||>1<|||>2025-05-12 15:52:49|bd_trabajopractico|0|CREATE TABLE empleados<{{{><}}}>(cod_empleado INT PRIMARY KEY,<{{{><}}}>apellidos VARCHAR (40),<{{{><}}}>nombre VARCHAR(40),<{{{><}}}>fecha_nacimiento DATE ,<{{{><}}}>num_doc INT ,<{{{><}}}>cod_jefe INT,<{{{><}}}>cod_oficina INT NOT NULL,<{{{><}}}>cod_documento INT NOT NULL,<{{{><}}}>FOREIGN KEY (cod_jefe) REFERENCES empleados (cod_empleado),<{{{><}}}>FOREIGN KEY (cod_oficina) REFERENCES oficinas (cod_oficina),<{{{><}}}>FOREIGN KEY (cod_documento) REFERENCES documentos (cod_documento));
+Servers\DB\QueryHistory\5<|||>1<|||>2025-05-12 15:54:51|bd_trabajopractico|0|CREATE TABLE empleados<{{{><}}}>(cod_empleado INT PRIMARY KEY,<{{{><}}}>apellido VARCHAR (40),<{{{><}}}>nombre VARCHAR(40),<{{{><}}}>fecha_nacimiento DATE ,<{{{><}}}>num_doc INT ,<{{{><}}}>cod_jefe INT,<{{{><}}}>cod_oficina INT NOT NULL,<{{{><}}}>cod_documento INT NOT NULL,<{{{><}}}>FOREIGN KEY (cod_jefe) REFERENCES empleados (cod_empleado),<{{{><}}}>FOREIGN KEY (cod_oficina) REFERENCES oficinas (cod_oficina),<{{{><}}}>FOREIGN KEY (cod_documento) REFERENCES documentos (cod_documento));
+Servers\DB\QueryHistory\6<|||>1<|||>2025-05-12 15:56:13|bd_trabajopractico|0|CREATE TABLE empleados<{{{><}}}>(cod_empleado INT PRIMARY KEY,<{{{><}}}>apellido VARCHAR (40),<{{{><}}}>nombre VARCHAR(40),<{{{><}}}>fecha_nacimiento DATE ,<{{{><}}}>num_doc INT ,<{{{><}}}>cod_jefe INT,<{{{><}}}>cod_oficina INT NOT NULL,<{{{><}}}>cod_documento INT NOT NULL,<{{{><}}}>FOREIGN KEY (cod_oficina) REFERENCES oficinas (cod_oficina),<{{{><}}}>FOREIGN KEY (cod_documento) REFERENCES documentos (cod_documento));
+Servers\DB\QueryHistory\7<|||>1<|||>2025-05-12 15:56:30|bd_trabajopractico|0|CREATE TABLE empleados<{{{><}}}>(cod_empleado INT PRIMARY KEY,<{{{><}}}>apellido VARCHAR (40),<{{{><}}}>nombre VARCHAR(40),<{{{><}}}>fecha_nacimiento DATE ,<{{{><}}}>num_doc INT ,<{{{><}}}>cod_jefe INT,<{{{><}}}>cod_oficina INT ,<{{{><}}}>cod_documento INT ,<{{{><}}}>FOREIGN KEY (cod_jefe) REFERENCES empleados (cod_empleado),<{{{><}}}>FOREIGN KEY (cod_oficina) REFERENCES oficinas (cod_oficina),<{{{><}}}>FOREIGN KEY (cod_documento) REFERENCES documentos (cod_documento));
+Servers\DB\QueryHistory\8<|||>1<|||>2025-05-12 15:57:05|bd_trabajopractico|0|CREATE TABLE empleados<{{{><}}}>(cod_empleado INT PRIMARY KEY,<{{{><}}}>apellido VARCHAR (40),<{{{><}}}>nombre VARCHAR(40),<{{{><}}}>fecha_nacimiento DATE ,<{{{><}}}>num_doc INT ,<{{{><}}}>cod_jefe INT,<{{{><}}}>cod_oficina INT ,<{{{><}}}>cod_documento INT ,<{{{><}}}>FOREIGN KEY (cod_jefe) REFERENCES empleados (cod_empleado)<{{{><}}}>FOREIGN KEY (cod_oficina) REFERENCES oficinas (cod_oficina)<{{{><}}}>FOREIGN KEY (cod_documento) REFERENCES documentos (cod_documento));
+Servers\DB\QueryHistory\9<|||>1<|||>2025-05-12 16:06:58|bd_trabajopractico|0|CREATE TABLE empleados<{{{><}}}>(cod_empleado INT PRIMARY KEY,<{{{><}}}>apellido VARCHAR (40),<{{{><}}}>nombre VARCHAR(40),<{{{><}}}>fecha_nacimiento DATE ,<{{{><}}}>num_doc INT ,<{{{><}}}>cod_jefe INT,<{{{><}}}>cod_oficina INT ,<{{{><}}}>cod_documento INT ,<{{{><}}}>FOREIGN KEY (cod_jefe) REFERENCES empleados (cod_empleado),<{{{><}}}>FOREIGN KEY (cod_oficina) REFERENCES oficinas (cod_oficina),<{{{><}}}>FOREIGN KEY (cod_documento) REFERENCES documentos (cod_documento));<{{{><}}}>
+Servers\DB\QueryHistory\10<|||>1<|||>2025-05-12 16:07:16|bd_trabajopractico|16|CREATE TABLE listas<{{{><}}}>(cod_lista INT PRIMARY KEY,<{{{><}}}>descripcion VARCHAR(100),<{{{><}}}>ganancia DOUBLE);
+Servers\DB\QueryHistory\11<|||>1<|||>2025-05-12 16:11:13|bd_trabajopractico|16|CREATE TABLE empleados<{{{><}}}>(cod_empleado INT PRIMARY KEY,<{{{><}}}>apellido VARCHAR (40),<{{{><}}}>nombre VARCHAR(40),<{{{><}}}>fecha_nacimiento DATE ,<{{{><}}}>num_doc INT ,<{{{><}}}>cod_jefe INT,<{{{><}}}>cod_oficina INT ,<{{{><}}}>cod_documento INT);
+Servers\DB\QueryHistory\13<|||>1<|||>2025-05-12 16:13:28|bd_trabajopractico|0|ALTER TABLE empleados FOREIGN KEY (cod_jefe) REFERENCES empleados (cod_empleado);
+Servers\DB\QueryHistory\12<|||>1<|||>2025-05-12 16:14:00|bd_trabajopractico|0|ALTER TABLE empleados (cod_oficina) REFERENCES oficinas (cod_oficina);
+Servers\DB\QueryHistory\14<|||>1<|||>2025-05-12 16:15:01|bd_trabajopractico|16|CREATE TABLE clientes<{{{><}}}>(cod_cliente INT PRIMARY KEY,<{{{><}}}>cod_lista INT NOT NULL,<{{{><}}}>razon_social VARCHAR(40),<{{{><}}}>FOREIGN KEY (cod_lista) REFERENCES listas (cod_lista));
+Servers\DB\QueryHistory\15<|||>1<|||>2025-05-12 16:33:44|bd_trabajopractico|47|ALTER TABLE empleados ADD FOREIGN KEY (cod_oficina) REFERENCES oficinas (cod_oficina);
+Servers\DB\QueryHistory\16<|||>1<|||>2025-05-12 16:34:44|bd_trabajopractico|0|alter table empleados FOREIGN KEY (cod_documento) REFERENCES documentos (cod_documento);
+Servers\DB\QueryHistory\17<|||>1<|||>2025-05-12 16:35:05|bd_trabajopractico|0|ALTER TABLE empleados FOREIGN KEY (cod_documento) REFERENCES documentos (cod_documento);
+Servers\DB\QueryHistory\18<|||>1<|||>2025-05-12 16:35:34|bd_trabajopractico|0|ALTER TABLE empleados ADD FOREIGN KEY (cod_documento) REFERENCES documentos (cod_documento);
+Servers\DB\QueryHistory\19<|||>1<|||>2025-05-12 16:42:59|bd_trabajopractico|31|ALTER TABLE oficinas ADD FOREIGN KEY (codigo_director) REFERENCES empleados (cod_jefe);
+Servers\DB\QueryHistory\20<|||>1<|||>2025-05-12 16:43:48|bd_trabajopractico|0|CREATE TABLE fabricantes <{{{><}}}>(cod_fabricante INT PRIMARY KEY,<{{{><}}}>razon_social VARCHAR(50));<{{{><}}}>
+Servers\DB\QueryHistory\21<|||>1<|||>2025-05-12 16:44:06|bd_trabajopractico|0|CREATE TABLE precios<{{{><}}}>(cod_producto INT PRIMARY KEY,<{{{><}}}>cod_lista INT PRIMARY KEY,<{{{><}}}>precio DOUBLE NOT NULL<{{{><}}}>FOREIGN KEY (cod_producto) REFERENCES productos (cod_producto),<{{{><}}}>FOREIGN KEY (cod_lista) REFERENCES listas (cod_lista));
+Servers\DB\QueryHistory\22<|||>1<|||>2025-05-12 16:44:29|bd_trabajopractico|0|CREATE TABLE precios<{{{><}}}>(cod_producto INT PRIMARY KEY,<{{{><}}}>cod_lista INT PRIMARY KEY,<{{{><}}}>precio DOUBLE NOT NULL,<{{{><}}}>FOREIGN KEY (cod_producto) REFERENCES productos (cod_producto),<{{{><}}}>FOREIGN KEY (cod_lista) REFERENCES listas (cod_lista));
+Servers\DB\QueryHistory\24<|||>1<|||>2025-05-12 16:45:32|bd_trabajopractico|0|CREATE TABLE precios<{{{><}}}>(cod_producto INT PRIMARY KEY,<{{{><}}}>cod_lista INT PRIMARY KEY,<{{{><}}}>precio DOUBLE NOT NULL,<{{{><}}}>FOREIGN KEY (cod_lista) REFERENCES listas (cod_lista));
+Servers\DB\QueryHistory\25<|||>1<|||>2025-05-12 16:49:55|bd_trabajopractico|0|CREATE TABLE precios<{{{><}}}>(cod_producto INT ,<{{{><}}}>cod_lista INT PRIMARY KEY,<{{{><}}}>precio DOUBLE NOT NULL,<{{{><}}}>PRIMARY KEY (cod_producto,cod_lista),<{{{><}}}>FOREIGN KEY (cod_lista) REFERENCES listas (cod_lista));
+Servers\DB\QueryHistory\26<|||>1<|||>2025-05-12 16:50:15|bd_trabajopractico|31|CREATE TABLE precios<{{{><}}}>(cod_producto INT ,<{{{><}}}>cod_lista INT ,<{{{><}}}>precio DOUBLE NOT NULL,<{{{><}}}>PRIMARY KEY (cod_producto,cod_lista),<{{{><}}}>FOREIGN KEY (cod_lista) REFERENCES listas (cod_lista));
+Servers\DB\QueryHistory\23<|||>1<|||>2025-05-12 16:51:00|bd_trabajopractico|0|CREATE TABLE productos<{{{><}}}>(cod_producto INT PRIMARY KEY,<{{{><}}}>descripcion VARCHAR(100),<{{{><}}}>precio DOUBLE NOT NULL,<{{{><}}}>cantidad_stock INT ,<{{{><}}}>punto_reposicion INT,<{{{><}}}>cod_fabricante INT NOT NULL,<{{{><}}}>FOREIGN KEY (precio) REFERENCES precios (precio),<{{{><}}}>FOREIGN KEY (cod_fabricante) REFERENCES fabricantes (cod_fabricante));
+Servers\DB\QueryHistory\28<|||>1<|||>2025-05-12 16:56:39|bd_trabajopractico|0|CREATE TABLE productos<{{{><}}}>(cod_producto INT PRIMARY KEY,<{{{><}}}>descripcion VARCHAR(100),<{{{><}}}>precio DOUBLE NOT NULL,<{{{><}}}>cantidad_stock INT ,<{{{><}}}>punto_reposicion INT,<{{{><}}}>cod_fabricante INT NOT NULL,<{{{><}}}>FOREIGN KEY (precio) REFERENCES precios (precio));
+Servers\DB\QueryHistory\27<|||>1<|||>2025-05-12 16:57:17|bd_trabajopractico|16|CREATE TABLE productos<{{{><}}}>(cod_producto INT PRIMARY KEY,<{{{><}}}>descripcion VARCHAR(100),<{{{><}}}>precio DOUBLE NOT NULL,<{{{><}}}>cantidad_stock INT ,<{{{><}}}>punto_reposicion INT,<{{{><}}}>cod_fabricante INT NOT NULL);
+Servers\DB\QueryHistory\29<|||>1<|||>2025-05-12 16:58:20|bd_trabajopractico|47|ALTER TABLE precios ADD FOREIGN KEY (cod_producto) REFERENCES productos (cod_producto);
+Servers\DB\QueryHistory\30<|||>1<|||>2025-05-12 16:58:47|bd_trabajopractico|31|ALTER TABLE productos ADD FOREIGN KEY (cod_fabricante) REFERENCES fabricantes (cod_fabricante);<{{{><}}}>ALTER TABLE productos ADD FOREIGN KEY (precio) REFERENCES precios (precio);
+Servers\DB\QueryHistory\31<|||>1<|||>2025-05-12 17:02:15|bd_trabajopractico|0|CREATE TABLE datos_contratos<{{{><}}}>(cod_empleado INT PRIMARY KEY,<{{{><}}}>fecha_contrato DATE PRIMARY KEY,<{{{><}}}>cuota INT ,<{{{><}}}>ventas INT ,<{{{><}}}>FOREIGN KEY (cod_empleado) REFERENCES empleados (cod_empleado));
+Servers\DB\QueryHistory\32<|||>1<|||>2025-05-12 17:03:06|bd_trabajopractico|16|CREATE TABLE datos_contratos<{{{><}}}>(cod_empleado INT,<{{{><}}}>fecha_contrato DATE ,<{{{><}}}>cuota INT ,<{{{><}}}>ventas INT ,<{{{><}}}>PRIMARY KEY (cod_empleado,fecha_contrato),<{{{><}}}>FOREIGN KEY (cod_empleado) REFERENCES empleados (cod_empleado));
+Servers\DB\QueryHistory\33<|||>1<|||>2025-05-12 17:04:31|bd_trabajopractico|16|CREATE TABLE pedidos<{{{><}}}>(cod_pedido INT PRIMARY KEY,<{{{><}}}>fecha_pedido DATE NOT NULL,<{{{><}}}>cod_empleado INT NOT NULL,<{{{><}}}>cod_cliente INT NOT NULL,<{{{><}}}>FOREIGN KEY (cod_empleado) REFERENCES empleados (cod_empleado),<{{{><}}}>FOREIGN KEY (cod_cliente) REFERENCES clientes (cod_cliente));
+Servers\DB\QueryHistory\34<|||>1<|||>2025-05-12 17:05:23|bd_trabajopractico|0|CREATE TABLE detalle_pedido<{{{><}}}>(cod_pedido INT ,<{{{><}}}>numero_linea INT ,<{{{><}}}>cod_producto INT NOT NULL,<{{{><}}}>cantidad INT NOT NULL,<{{{><}}}>PRIMARY KEY (cod_pedido,numero_limea),<{{{><}}}>FOREIGN KEY (cod_pedido) REFERENCES pedidos (cod_pedido),<{{{><}}}>FOREIGN KEY (cod_producto) REFERENCES productos (cod_producto));
+Servers\DB\QueryHistory\35<|||>1<|||>2025-05-12 17:06:17|bd_trabajopractico|15|CREATE TABLE detalle_pedido<{{{><}}}>(cod_pedido INT ,<{{{><}}}>numero_linea INT ,<{{{><}}}>cod_producto INT NOT NULL,<{{{><}}}>cantidad INT NOT NULL,<{{{><}}}>PRIMARY KEY (cod_pedido,numero_linea),<{{{><}}}>FOREIGN KEY (cod_pedido) REFERENCES pedidos (cod_pedido),<{{{><}}}>FOREIGN KEY (cod_producto) REFERENCES productos (cod_producto));
+Servers\DB\QueryHistory\37<|||>1<|||>2025-05-12 17:43:07|bd_trabajopractico|0|<{{{><}}}>INSERT INTO documentos (cod_documento,descripcion) VALUES<{{{><}}}>(1,'dni'),<{{{><}}}>(2,'pass'),<{{{><}}}>(3,'pass'),<{{{><}}}>(4,'licencia de conducir'),<{{{><}}}>(5,'dni'),<{{{><}}}>(6,'carnet extranjero'),<{{{><}}}>(7,'licencia de conducir'),<{{{><}}}>(8,'dni'),<{{{><}}}>(9,'dni'),<{{{><}}}>(10,'pass'),<{{{><}}}>(11,'pass'),<{{{><}}}>(12,'licencia de conducir'),<{{{><}}}>(13,'dni'),<{{{><}}}>(14,'dni'),<{{{><}}}>(15,'licencia de conducir');
+Servers\DB\QueryHistory\36<|||>1<|||>2025-05-12 17:50:02|bd_trabajopractico|0|CREATE TABLE documentos<{{{><}}}>(cod_documento INT PRIMARY KEY,<{{{><}}}>descripcion VARCHAR(40) NOT NULL);
+Servers\DB\QueryHistory\38<|||>1<|||>2025-05-12 17:52:47|bd_trabajopractico|16|INSERT INTO documentos (cod_documento,descripcion) VALUES<{{{><}}}>(1,'dni'),<{{{><}}}>(2,'pass'),<{{{><}}}>(3,'pass'),<{{{><}}}>(4,'licencia de conducir'),<{{{><}}}>(5,'dni'),<{{{><}}}>(6,'carnet extranjero'),<{{{><}}}>(7,'licencia de conducir'),<{{{><}}}>(8,'dni'),<{{{><}}}>(9,'dni'),<{{{><}}}>(10,'pass'),<{{{><}}}>(11,'pass'),<{{{><}}}>(12,'licencia de conducir'),<{{{><}}}>(13,'dni'),<{{{><}}}>(14,'dni'),<{{{><}}}>(15,'licencia de conducir');
+Servers\DB\QueryHistory\39<|||>1<|||>2025-05-14 12:47:30|bd_trabajopractico|0|INSERT INTO clientes (cod_cliente,codigo_lista,razon_social) VALUES<{{{><}}}>(001, 1, 'Grimes and Walker'),<{{{><}}}>(002, 2, 'Vandervort and Kessler'),<{{{><}}}>(003, 3, 'McCullough-Crooks'),<{{{><}}}>(004, 4, 'Ferry'),<{{{><}}}>(005, 5, 'Lueilwitz and Mosciski'),<{{{><}}}>(006, 6, 'Legros-Dickinson'),<{{{><}}}>(007, 7, 'Windler and Quigley'),<{{{><}}}>(008, 8, 'Hamill Group'),<{{{><}}}>(009, 9, 'Shanahan and Sons'),<{{{><}}}>(010, 10, 'Willms-Morar'),<{{{><}}}>(011, 11, 'Orn Inc'),<{{{><}}}>(012, 12, 'Fritsch'),<{{{><}}}>(013, 13, 'Hammes and Wyman'),<{{{><}}}>(014, 14, 'Nolan'),<{{{><}}}>(015, 15, 'Welch and Klein');
+Servers\DB\QueryHistory\41<|||>1<|||>2025-05-14 13:03:48|bd_trabajopractico|0|INSERT INTO  listas (cod_lista, descripcion, ganancia) values (1, 'Frozen Vegetarian Meals', 47351.58);
+Servers\DB\QueryHistory\40<|||>1<|||>2025-05-14 13:06:23|bd_trabajopractico|0|INSERT INTO clientes (cod_cliente,cod_lista,razon_social) VALUES<{{{><}}}>(001, 1, 'Grimes and Walker'),<{{{><}}}>(002, 2, 'Vandervort and Kessler'),<{{{><}}}>(003, 3, 'McCullough-Crooks'),<{{{><}}}>(004, 4, 'Ferry'),<{{{><}}}>(005, 5, 'Lueilwitz and Mosciski'),<{{{><}}}>(006, 6, 'Legros-Dickinson'),<{{{><}}}>(007, 7, 'Windler and Quigley'),<{{{><}}}>(008, 8, 'Hamill Group'),<{{{><}}}>(009, 9, 'Shanahan and Sons'),<{{{><}}}>(010, 10, 'Willms-Morar'),<{{{><}}}>(011, 11, 'Orn Inc'),<{{{><}}}>(012, 12, 'Fritsch'),<{{{><}}}>(013, 13, 'Hammes and Wyman'),<{{{><}}}>(014, 14, 'Nolan'),<{{{><}}}>(015, 15, 'Welch and Klein');
+Servers\DB\QueryHistory\42<|||>1<|||>2025-05-14 13:07:44|bd_trabajopractico|0|INSERT INTO clientes (cod_cliente,cod_lista,razon_social) VALUES<{{{><}}}>(1001, 1, 'Grimes and Walker'),<{{{><}}}>(1002, 2, 'Vandervort and Kessler'),<{{{><}}}>(1003, 3, 'McCullough-Crooks'),<{{{><}}}>(1004, 4, 'Ferry'),<{{{><}}}>(1005, 5, 'Lueilwitz and Mosciski'),<{{{><}}}>(1006, 6, 'Legros-Dickinson'),<{{{><}}}>(1007, 7, 'Windler and Quigley'),<{{{><}}}>(1008, 8, 'Hamill Group'),<{{{><}}}>(1009, 9, 'Shanahan and Sons'),<{{{><}}}>(1010, 10, 'Willms-Morar'),<{{{><}}}>(1011, 11, 'Orn Inc'),<{{{><}}}>(1012, 12, 'Fritsch'),<{{{><}}}>(1013, 13, 'Hammes and Wyman'),<{{{><}}}>(1014, 14, 'Nolan'),<{{{><}}}>(1015, 15, 'Welch and Klein');
+Servers\DB\QueryHistory\43<|||>1<|||>2025-05-14 14:00:57|bd_trabajopractico|0|INSERT INTO pedidos (cod_pedido, fecha_pedido, cod_empleado, cod_cliente) values (1, 2019_0_15, 1, 1001);
+Servers\DB\QueryHistory\44<|||>1<|||>2025-05-15 13:08:50|bd_trabajopractico|0|<{{{><}}}>SELECT descripcion nombre<{{{><}}}>FROM oficinas 
+Servers\DB\QueryHistory\45<|||>1<|||>2025-05-15 13:14:12|bd_trabajopractico|0|SELECT descripcion listaProductos,precio precioCosto, precio precioIva<{{{><}}}>FROM productos
+Servers\DB\QueryHistory\46<|||>1<|||>2025-05-15 13:14:56|bd_trabajopractico|0|<{{{><}}}>SELECT descripcion listaProductos,precio precioCosto, precio precioIva<{{{><}}}>FROM productos<{{{><}}}>WHERE precioIva=precioIva+21%
+Servers\DB\QueryHistory\47<|||>1<|||>2025-05-15 13:16:41|bd_trabajopractico|0|SELECT descripcion listaProductos,precio precioCosto, precio precioIva<{{{><}}}>FROM productos<{{{><}}}>WHERE precio = precioIva<{{{><}}}>AND precioIva=precio+21%
+Servers\DB\QueryHistory\48<|||>1<|||>2025-05-15 13:17:07|bd_trabajopractico|0|SELECT descripcion listaProductos,precio precioCosto, precio precioIva<{{{><}}}>FROM productos<{{{><}}}>WHERE precioIva=precio+21%
+Servers\DB\QueryHistory\49<|||>1<|||>2025-05-15 13:19:12|bd_trabajopractico|0|SELECT descripcion listaProductos,precio precioCosto, precio+21% precioIva<{{{><}}}>FROM productos
+Servers\DB\QueryHistory\50<|||>1<|||>2025-05-15 13:19:56|bd_trabajopractico|0|SELECT descripcion listaProductos,precio precioCosto, precio*21% precioIva<{{{><}}}>FROM productos<{{{><}}}>
+Servers\DB\QueryHistory\51<|||>1<|||>2025-05-15 13:27:13|bd_trabajopractico|0|SELECT descripcion listaProductos,precio precioCosto, precio+precio*2.1 precioIva<{{{><}}}>FROM productos<{{{><}}}>
+Servers\DB\QueryHistory\52<|||>1<|||>2025-05-15 13:28:43|bd_trabajopractico|0|SELECT descripcion listaProductos,precio precioCosto, precio+(precio*0.21) precioIva<{{{><}}}>FROM productos
+Servers\DB\QueryHistory\53<|||>1<|||>2025-05-15 13:35:02|bd_trabajopractico|0|<{{{><}}}>SELECT distinct descripcion nombreOficinas<{{{><}}}>FROM oficinas 
+Servers\DB\QueryHistory\54<|||>1<|||>2025-05-15 13:35:22|bd_trabajopractico|0|<{{{><}}}>SELECT  descripcion nombreOficinas<{{{><}}}>FROM oficinas 
+Servers\DB\QueryHistory\55<|||>1<|||>2025-05-15 13:35:33|bd_trabajopractico|0|<{{{><}}}>SELECT distinct descripcion nombreOficinas<{{{><}}}>FROM oficinas <{{{><}}}>
+Servers\DB\QueryHistory\56<|||>1<|||>2025-05-15 13:38:50|bd_trabajopractico|0|SELECT apellido,nombre,fecha_nacimiento fechaCumpleaños, YEAR(CURDATE())-YEAR(fecha_nacimiento) edad<{{{><}}}>FROM empleados
+Servers\DB\QueryHistory\57<|||>1<|||>2025-05-15 13:42:32|bd_trabajopractico|0|SELECT *<{{{><}}}>FROM empleados<{{{><}}}>WHERE cod_jefe = null
+Servers\DB\QueryHistory\58<|||>1<|||>2025-05-15 13:42:54|bd_trabajopractico|0|SELECT *<{{{><}}}>FROM empleados
+Servers\DB\QueryHistory\59<|||>1<|||>2025-05-15 13:43:18|bd_trabajopractico|0|<{{{><}}}>SELECT *<{{{><}}}>FROM empleados<{{{><}}}>WHERE cod_jefe = null
+Servers\DB\QueryHistory\61<|||>1<|||>2025-05-15 13:44:14|bd_trabajopractico|0|SELECT *<{{{><}}}>FROM empleados<{{{><}}}>WHERE cod_jefe IS NULL
+Servers\DB\QueryHistory\62<|||>1<|||>2025-05-15 13:44:27|bd_trabajopractico|0|SELECT *<{{{><}}}>FROM empleados<{{{><}}}>WHERE cod_jefe IS not NULL
+Servers\DB\QueryHistory\60<|||>1<|||>2025-05-15 13:44:41|bd_trabajopractico|0|SELECT *<{{{><}}}>FROM empleados<{{{><}}}>WHERE cod_jefe IS NOT NULL 
+Servers\DB\QueryHistory\63<|||>1<|||>2025-05-15 13:50:19|bd_trabajopractico|0|SELECT *<{{{><}}}>FROM empleados<{{{><}}}>WHERE nombre = "maria"
+Servers\DB\QueryHistory\64<|||>1<|||>2025-05-15 13:54:10|bd_trabajopractico|0|SELECT codigo_cliente<{{{><}}}>FROM clientes<{{{><}}}>WHERE razon_social LIKE "l%"
+Servers\DB\QueryHistory\65<|||>1<|||>2025-05-15 13:54:52|bd_trabajopractico|0|<{{{><}}}>SELECT codigo_cliente<{{{><}}}>FROM clientes
+Servers\DB\QueryHistory\66<|||>1<|||>2025-05-15 13:55:02|bd_trabajopractico|16|<{{{><}}}>SELECT cod_cliente<{{{><}}}>FROM clientes
+Servers\DB\QueryHistory\67<|||>1<|||>2025-05-15 13:55:08|bd_trabajopractico|0|SELECT cod_cliente<{{{><}}}>FROM clientes<{{{><}}}>WHERE razon_social LIKE "l%"
+Servers\DB\QueryHistory\68<|||>1<|||>2025-05-15 14:00:14|bd_trabajopractico|0|SELECT *<{{{><}}}>FROM pedidos<{{{><}}}>WHERE MONTH(fecha_pedido)=3
+Servers\DB\QueryHistory\69<|||>1<|||>2025-05-15 14:00:23|bd_trabajopractico|0|SELECT *<{{{><}}}>FROM pedidos<{{{><}}}>WHERE MONTH(fecha_pedido)=3<{{{><}}}>ORDER BY fecha_pedido
+Servers\DB\QueryHistory\70<|||>1<|||>2025-05-15 14:02:08|bd_trabajopractico|0|SELECT *<{{{><}}}>FROM oficinas<{{{><}}}>WHERE codigo_directo IS NULL 
+Servers\DB\QueryHistory\71<|||>1<|||>2025-05-15 14:02:25|bd_trabajopractico|0|SELECT *<{{{><}}}>FROM oficinas<{{{><}}}>WHERE codigo_director IS NULL 
+Servers\DB\QueryHistory\72<|||>1<|||>2025-05-15 14:02:46|bd_trabajopractico|0|SELECT *<{{{><}}}>FROM oficinas<{{{><}}}>WHERE codigo_director IS NOT  NULL 
+Servers\DB\QueryHistory\74<|||>1<|||>2025-05-15 14:05:31|bd_trabajopractico|0|SELECT MIN (precio)<{{{><}}}>FROM productos 
+Servers\DB\QueryHistory\73<|||>1<|||>2025-05-15 14:06:44|bd_trabajopractico|0|SELECT *<{{{><}}}>FROM productos <{{{><}}}>ORDER BY precio ASC<{{{><}}}>LIMIT 4
+Servers\DB\QueryHistory\75<|||>1<|||>2025-05-15 14:21:01|bd_trabajopractico|0|SELECT cod_empleado<{{{><}}}>FROM datos_contratos <{{{><}}}>ORDER BY couta 
+Servers\DB\QueryHistory\77<|||>1<|||>2025-05-15 14:22:06|bd_trabajopractico|0|SELECT * <{{{><}}}>FROM datos_contratos 
+Servers\DB\QueryHistory\78<|||>1<|||>2025-05-15 14:23:01|bd_trabajopractico|0|<{{{><}}}>SELECT cod_empleado<{{{><}}}>FROM datos_contratos <{{{><}}}>ORDER BY cuota
+Servers\DB\QueryHistory\79<|||>1<|||>2025-05-15 14:23:33|bd_trabajopractico|0|SELECT cod_empleado<{{{><}}}>FROM datos_contratos <{{{><}}}>ORDER BY cuota <{{{><}}}>LIMIT 3
+Servers\DB\QueryHistory\80<|||>1<|||>2025-05-15 14:24:31|bd_trabajopractico|0|SELECT cod_empleado<{{{><}}}>FROM datos_contratos 
+Servers\DB\QueryHistory\76<|||>1<|||>2025-05-15 14:24:59|bd_trabajopractico|0|SELECT cod_empleado<{{{><}}}>FROM datos_contratos <{{{><}}}>ORDER BY cuota 
+Servers\DB\QueryHistory\81<|||>1<|||>2025-05-15 14:26:35|bd_trabajopractico|0|SELECT cod_empleado<{{{><}}}>FROM datos_contratos <{{{><}}}>ORDER BY cuota DESC
+Servers\DB\QueryHistory\82<|||>1<|||>2025-05-15 14:26:51|bd_trabajopractico|0|SELECT cod_empleado<{{{><}}}>FROM datos_contratos <{{{><}}}>ORDER BY cuota DESC<{{{><}}}>LIMIT 3
+Servers\DB\QueryHistory\83<|||>1<|||>2025-05-18 11:41:03|bd_trabajopractico|0|<{{{><}}}>SELECT p.descripcion,p.cantidad_stock,f.razon_social<{{{><}}}>FROM productos p,fabricantes f<{{{><}}}>WHERE p.cod_fabricante=f.cod_fabricante<{{{><}}}>ORDER BY descripcion <{{{><}}}>AND ORDER BY razon_social
+Servers\DB\QueryHistory\84<|||>1<|||>2025-05-18 11:41:25|bd_trabajopractico|16|SELECT p.descripcion,p.cantidad_stock,f.razon_social<{{{><}}}>FROM productos p,fabricantes f<{{{><}}}>WHERE p.cod_fabricante=f.cod_fabricante<{{{><}}}>ORDER BY descripcion 
+Servers\DB\QueryHistory\85<|||>1<|||>2025-05-18 11:43:35|bd_trabajopractico|0|SELECT p.descripcion,p.cantidad_stock,f.razon_social<{{{><}}}>FROM productos p,fabricantes f<{{{><}}}>WHERE p.cod_fabricante=f.cod_fabricante<{{{><}}}>ORDER BY p.descripcion,f.razon_social
+Servers\DB\QueryHistory\86<|||>1<|||>2025-05-18 11:51:57|bd_trabajopractico|15|SELECT pd.cod_pedido,pd.fecha_pedido,e.apellido,c.razon_social<{{{><}}}>FROM pedidos pd,empleados e,clientes c<{{{><}}}>WHERE pd.cod_empleado=e.cod_empleado<{{{><}}}>AND pd.cod_cliente=c.cod_cliente
+Servers\DB\QueryHistory\87<|||>1<|||>2025-05-18 11:59:12|bd_trabajopractico|0|SELECT e.apellido,dc.cuota,o.descripcion<{{{><}}}>FROM empleados e,datos_contratos dc,oficinas o<{{{><}}}>WHERE e.cod_oficina=o.cod_oficina<{{{><}}}>AND e.cod_empleado=dc.cod_empleado
+Servers\DB\QueryHistory\88<|||>1<|||>2025-05-18 12:04:59|bd_trabajopractico|0|SELECT DISTINCT c.razon_social<{{{><}}}>FROM clientes c,pedidos pd<{{{><}}}>WHERE c.cod_cliente=pd.cod_cliente<{{{><}}}>AND month(pd.fecha_pedido)=04 
+Servers\DB\QueryHistory\89<|||>1<|||>2025-05-18 12:13:50|bd_trabajopractico|0|SELECT DISTINCT p.descripcion<{{{><}}}>FROM productos p, pedidos pd,detalle_pedido dp<{{{><}}}>WHERE p.cod_producto=dp.cod_producto<{{{><}}}>AND dp.cod_pedido=pd.cod_pedido
+Servers\DB\QueryHistory\90<|||>1<|||>2025-05-18 12:14:53|bd_trabajopractico|0|SELECT DISTINCT p.descripcion<{{{><}}}>FROM productos p, pedidos pd,detalle_pedido dp<{{{><}}}>WHERE p.cod_producto=dp.cod_producto<{{{><}}}>AND dp.cod_pedido=pd.cod_pedido<{{{><}}}>AND month(pd.fecha_pedido)=03
+Servers\DB\QueryHistory\91<|||>1<|||>2025-05-18 12:20:23|bd_trabajopractico|0|SELECT e.*<{{{><}}}>FROM empleados e, datos_contratos dc<{{{><}}}>WHERE e.cod_empleado=dc.cod_empleado
+Servers\DB\QueryHistory\92<|||>1<|||>2025-05-18 12:21:40|bd_trabajopractico|0|SELECT e.*<{{{><}}}>FROM empleados e, datos_contratos dc<{{{><}}}>WHERE e.cod_empleado=dc.cod_empleado<{{{><}}}>AND YEAR(CURDATE())-year(dc.fecha_contrato)
+Servers\DB\QueryHistory\93<|||>1<|||>2025-05-18 12:23:26|bd_trabajopractico|0|SELECT e.*<{{{><}}}>FROM empleados e, datos_contratos dc<{{{><}}}>WHERE e.cod_empleado=dc.cod_empleado<{{{><}}}>AND ORDER BY (YEAR(CURDATE())-year(dc.fecha_contrato)) DESC <{{{><}}}>
+Servers\DB\QueryHistory\94<|||>1<|||>2025-05-18 12:25:23|bd_trabajopractico|0|SELECT e.*<{{{><}}}>FROM empleados e, datos_contratos dc<{{{><}}}>WHERE e.cod_empleado=dc.cod_empleado<{{{><}}}>AND (YEAR(CURDATE())-year(dc.fecha_contrato) >10
+Servers\DB\QueryHistory\96<|||>1<|||>2025-05-18 12:27:08|bd_trabajopractico|0|SELECT e.*<{{{><}}}>FROM empleados e, datos_contratos dc<{{{><}}}>WHERE e.cod_empleado=dc.cod_empleado<{{{><}}}>AND (YEAR(CURDATE())-year(dc.fecha_contrato)) >3
+Servers\DB\QueryHistory\97<|||>1<|||>2025-05-18 12:27:18|bd_trabajopractico|0|SELECT e.*<{{{><}}}>FROM empleados e, datos_contratos dc<{{{><}}}>WHERE e.cod_empleado=dc.cod_empleado<{{{><}}}>AND (YEAR(CURDATE())-year(dc.fecha_contrato)) >4
+Servers\DB\QueryHistory\98<|||>1<|||>2025-05-18 12:27:26|bd_trabajopractico|0|SELECT e.*<{{{><}}}>FROM empleados e, datos_contratos dc<{{{><}}}>WHERE e.cod_empleado=dc.cod_empleado<{{{><}}}>AND (YEAR(CURDATE())-year(dc.fecha_contrato)) >5
+Servers\DB\QueryHistory\99<|||>1<|||>2025-05-18 12:27:40|bd_trabajopractico|0|SELECT e.*<{{{><}}}>FROM empleados e, datos_contratos dc<{{{><}}}>WHERE e.cod_empleado=dc.cod_empleado<{{{><}}}>AND (YEAR(CURDATE())-year(dc.fecha_contrato)) >10
+Servers\DB\QueryHistory\95<|||>1<|||>2025-05-18 12:27:50|bd_trabajopractico|0|SELECT e.*<{{{><}}}>FROM empleados e, datos_contratos dc<{{{><}}}>WHERE e.cod_empleado=dc.cod_empleado<{{{><}}}>AND (YEAR(CURDATE())-year(dc.fecha_contrato)) >5<{{{><}}}>ORDER BY (YEAR(CURDATE())-year(dc.fecha_contrato)) DESC
+Servers\DB\QueryHistory\100<|||>1<|||>2025-05-18 12:45:56|bd_trabajopractico|0|SELECT c.*<{{{><}}}>FROM clientes c, detalle_pedido dp,pedidos pd<{{{><}}}>WHERE pd.cod_pedido=dp.cod_pedido<{{{><}}}>AND c.cod_cliente=pd.cod_cliente<{{{><}}}>AND dp.cantidad > 100<{{{><}}}>ORDER BY c.razon_social
+Servers\DB\QueryHistory\102<|||>1<|||>2025-05-18 12:54:04|bd_trabajopractico|0|SELECT DISTINCT c.razon_social, p.descripcion,c.cod_cliente<{{{><}}}>FROM clientes c, detalle_pedido dp, productos p<{{{><}}}>WHERE dp.cod_producto=p.cod_producto<{{{><}}}>AND c.cod_cliente=pd.cod_cliente
+Servers\DB\QueryHistory\101<|||>1<|||>2025-05-18 12:54:10|bd_trabajopractico|0|SELECT DISTINCT c.razon_social, p.descripcion,c.cod_cliente<{{{><}}}>FROM clientes c, detalle_pedido dp, productos p<{{{><}}}>WHERE dp.cod_producto=p.cod_producto
+Servers\DB\QueryHistory\103<|||>1<|||>2025-05-18 12:57:49|bd_trabajopractico|0|SELECT DISTINCT c.razon_social, p.descripcion,c.cod_cliente<{{{><}}}>FROM clientes c, detalle_pedido dp, productos p<{{{><}}}>WHERE dp.cod_producto=p.cod_producto<{{{><}}}>AND c.cod_cliente=pd.cod_cliente<{{{><}}}>ORDER BY c.razon_social,p.descripcion
+Servers\DB\QueryHistory\104<|||>1<|||>2025-05-18 13:02:06|bd_trabajopractico|0|SELECT DISTINCT c.razon_social, p.descripcion,c.cod_cliente<{{{><}}}>FROM clientes c, detalle_pedido dp, productos p,pedidos pd<{{{><}}}>WHERE dp.cod_producto=p.cod_producto<{{{><}}}>AND c.cod_cliente=pd.cod_cliente<{{{><}}}>ORDER BY c.razon_social,p.descripcion
+Servers\DB\QueryHistory\105<|||>1<|||>2025-05-18 13:03:58|bd_trabajopractico|0|SELECT DISTINCT c.razon_social, p.descripcion<{{{><}}}>FROM clientes c, detalle_pedido dp, productos p,pedidos pd<{{{><}}}>WHERE dp.cod_producto=p.cod_producto<{{{><}}}>AND c.cod_cliente=pd.cod_cliente<{{{><}}}>ORDER BY c.razon_social,p.descripcion
+Servers\DB\QueryHistory\106<|||>1<|||>2025-05-18 13:06:06|bd_trabajopractico|0|SELECT p.descripcion<{{{><}}}>FROM productos p<{{{><}}}>WHERE p.cantidad_stock < p.punto_reposicion
+Servers\DB\QueryHistory\107<|||>1<|||>2025-05-18 13:12:06|bd_trabajopractico|0|<{{{><}}}>SELECT p.descripcion,(p.punto_reposicion _ p.cantidad_stock) cantidad_a_comprar<{{{><}}}>FROM productos p<{{{><}}}>WHERE p.cantidad_stock < p.punto_reposicion
+Servers\DB\QueryHistory\108<|||>1<|||>2025-05-18 13:12:19|bd_trabajopractico|0|SELECT p.descripcion,(p.punto_reposicion _ p.cantidad_stock) as cantidad_a_comprar<{{{><}}}>FROM productos p<{{{><}}}>WHERE p.cantidad_stock < p.punto_reposicion
+Servers\DB\QueryHistory\109<|||>1<|||>2025-05-18 13:17:59|bd_trabajopractico|0|SELECT p.descripcion,(p.punto_reposicion _ p.cantidad_stock) as acomprar,f.razon_social<{{{><}}}>FROM productos p,fabricantes f<{{{><}}}>WHERE p.cod_fabricante=f.cod_fabricante<{{{><}}}>AND p.cantidad_stock < p.punto_reposicion<{{{><}}}>ORDER BY f.razon_social, p.descripcion
+Servers\DB\QueryHistory\110<|||>1<|||>2025-05-18 13:19:17|bd_trabajopractico|0|SELECT p.descripcion,(p.punto_reposicion - p.cantidad_stock) as acomprar,f.razon_social<{{{><}}}>FROM productos p,fabricantes f<{{{><}}}>WHERE p.cod_fabricante=f.cod_fabricante<{{{><}}}>AND p.cantidad_stock < p.punto_reposicion<{{{><}}}>ORDER BY f.razon_social, p.descripcion
+Servers\DB\QueryHistory\111<|||>1<|||>2025-05-18 13:23:04|bd_trabajopractico|0|<{{{><}}}>SELECT e.apellido,e.nombre<{{{><}}}>FROM empleados e, datos_contratos dc<{{{><}}}>WHERE dc.cod_empleado=e.cod_empleado<{{{><}}}>AND dc.cuota<50000 | dc.cuota>100000
+Servers\DB\QueryHistory\112<|||>1<|||>2025-05-18 13:25:02|bd_trabajopractico|0|SELECT e.apellido,e.nombre<{{{><}}}>FROM empleados e, datos_contratos dc<{{{><}}}>WHERE dc.cod_empleado=e.cod_empleado<{{{><}}}>AND (dc.cuota<50000 OR  dc.cuota>100000)
